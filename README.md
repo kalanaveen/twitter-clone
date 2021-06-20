@@ -1,3 +1,16 @@
+Building Twitter application from Scratch Using React js.
+
+A twitter demo was built using Reactjs.In this app you can do real time tweet with help of cloud firestore.
+
+twitter page
+
+![image](https://user-images.githubusercontent.com/34640475/122668342-255ca580-d1d5-11eb-8073-2dc7df2c0ed2.png)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
